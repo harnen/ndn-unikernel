@@ -8,4 +8,4 @@ This project provides a Docker environment for creating unikernel based on [Rump
 
 A ready to use image is available on docker: 
 
-`harnen/ndn-unikernel`
+`docker run --rm -ti harnen/ndn-unikernel`
