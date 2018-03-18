@@ -1,9 +1,8 @@
 # ndn-unikernel
 
-This is project 
-https://github.com/cn-uofbasel/PiCN
+This project provides a Docker environment for creating unikernel based on [Rumprun](https://github.com/rumpkernel/wiki/wiki/Repo:-rumprun) unikernels and Python based [Forwarder](https://github.com/cn-uofbasel/PiCN) and [Client Library](https://github.com/named-data/PyNDN2).
 
-https://github.com/named-data/PyNDN2
+
 
 # Docker image
 
